@@ -4,7 +4,7 @@
 #
 Name     : perl-Test-Toolbox
 Version  : 0.4
-Release  : 4
+Release  : 5
 URL      : https://cpan.metacpan.org/authors/id/M/MI/MIKO/Test-Toolbox-0.4.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/MI/MIKO/Test-Toolbox-0.4.tar.gz
 Summary  : 'Test::Toolbox - tools for testing'
@@ -129,5 +129,5 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/Test/Toolbox.pm
-/usr/lib/perl5/vendor_perl/5.30.3/Test/Toolbox.pod
+/usr/lib/perl5/vendor_perl/5.32.1/Test/Toolbox.pm
+/usr/lib/perl5/vendor_perl/5.32.1/Test/Toolbox.pod
