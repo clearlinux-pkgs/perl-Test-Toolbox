@@ -5,7 +5,7 @@
 #
 Name     : perl-Test-Toolbox
 Version  : 0.4
-Release  : 14
+Release  : 15
 URL      : https://cpan.metacpan.org/authors/id/M/MI/MIKO/Test-Toolbox-0.4.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/MI/MIKO/Test-Toolbox-0.4.tar.gz
 Summary  : 'Test::Toolbox - tools for testing'
